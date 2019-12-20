@@ -1,0 +1,2 @@
+# Pima_Indian_diabetes_data_Classification
+Machine learning
